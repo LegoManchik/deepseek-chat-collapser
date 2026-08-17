@@ -14,10 +14,12 @@
 ### Manual installation
 
 1. Download the latest release
-2. Open Chrome and go to `chrome://extensions/`
-3. Enable "Developer mode"
-4. Click "Load unpacked"
-5. Select the `build` folder
+2. Extract the archive to a folder on your computer
+3. Open Chrome and go to `chrome://extensions/`
+4. Enable **"Developer mode"**
+5. Click **"Load unpacked"** button
+6. Select the extracted folder `deepseek-chat-collapser`
+7. The extension is now installed and ready to use!
 
 ## Usage
 
